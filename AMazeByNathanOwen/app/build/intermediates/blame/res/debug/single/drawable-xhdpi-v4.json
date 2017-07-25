@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hedge.bmp",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-xhdpi\\hedge.bmp"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sky.bmp",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-xhdpi\\sky.bmp"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pk.bmp",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-xhdpi\\pk.bmp"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\confetti.bmp",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-xhdpi\\confetti.bmp"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bushes.bmp",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-xhdpi\\bushes.bmp"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grass.bmp",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-xhdpi\\grass.bmp"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title.bmp",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-xhdpi\\title.bmp"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hit.mp3",
+        "source": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\src\\main\\res\\raw\\hit.mp3"
+    },
+    {
+        "merged": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shoot.mp3",
+        "source": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\src\\main\\res\\raw\\shoot.mp3"
+    },
+    {
+        "merged": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\build\\intermediates\\res\\merged\\debug\\raw\\backsound.mp3",
+        "source": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\src\\main\\res\\raw\\backsound.mp3"
+    },
+    {
+        "merged": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballin.mp3",
+        "source": "D:\\DevTool\\workspace\\Lecture\\Android\\Projects\\Billiyaryds_2D\\app\\src\\main\\res\\raw\\ballin.mp3"
+    }
+]

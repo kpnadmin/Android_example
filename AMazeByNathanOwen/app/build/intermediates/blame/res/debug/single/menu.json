@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\amaze.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\menu\\amaze.xml"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\finish.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\menu\\finish.xml"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\generating.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\menu\\generating.xml"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\play.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\menu\\play.xml"
+    }
+]

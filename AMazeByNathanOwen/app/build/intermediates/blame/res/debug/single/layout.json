@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finish.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\layout\\activity_finish.xml"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_amaze.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\layout\\activity_amaze.xml"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_generating.xml",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\layout\\activity_generating.xml"
+    }
+]

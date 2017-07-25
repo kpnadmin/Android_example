@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_map.png",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-hdpi\\ic_action_map.png"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_full_screen.png",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-hdpi\\ic_action_full_screen.png"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_directions.png",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-hdpi\\ic_action_directions.png"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_download.png",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-hdpi\\ic_action_download.png"
+    },
+    {
+        "merged": "D:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_view_as_grid.png",
+        "source": "D:\\Android_Example\\AMazeByNathanOwen\\app\\src\\main\\res\\drawable-hdpi\\ic_action_view_as_grid.png"
+    }
+]

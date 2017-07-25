@@ -1,0 +1,7 @@
+#Tue Jul 25 11:17:43 KST 2017
+base.0=D\:\\Android_Example\\initial_game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b6e02b9785a2ac2862c73fd34969b7348a2cb39f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android_Example\\initial_game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3e4585eab9ddb6f72da518e90f472867e0699981\\classes.dex
+base.1=D\:\\Android_Example\\initial_game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3e4585eab9ddb6f72da518e90f472867e0699981
+file.0=D\:\\Android_Example\\initial_game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b6e02b9785a2ac2862c73fd34969b7348a2cb39f\\classes.dex
