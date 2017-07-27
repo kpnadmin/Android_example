@@ -3,20 +3,11 @@
 
     <item
         is-multidex="true"
-        jar="D:\DevTool\android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="D:\Android_Example\AMazeByNathanOwen\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_a19d6a3a1d62f47d5d3a648a9d57458eb6584c8f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Android_Example\AMazeByNathanOwen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="9f44c87559d1c2512cb3c6edd2f177767c972c58">
+        sha1="b04aedbf473d4066acf92772b4c297e8d99b296a">
         <dex dex="D:\Android_Example\AMazeByNathanOwen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0cce27c0b51540626fdd5696269f8ab673fd1008\classes.dex" />
     </item>
     <item
@@ -25,8 +16,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
         <dex dex="D:\Android_Example\AMazeByNathanOwen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a312e688016f50bfedf436194d11f6890c5f81b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_sdk\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android_Example\AMazeByNathanOwen\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_561d1cebaf7076a89054f8949095c16663de2e84\classes.dex" />
     </item>
 
 </items>

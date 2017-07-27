@@ -1,12 +1,12 @@
 #Internal package file, do not edit.
-#Tue Jul 25 10:28:05 KST 2017
+#Fri Jul 28 01:31:06 KST 2017
 25.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\amaze.xml
 25.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 22.set=JAVA_RESOURCE
 8.set=ANDROID_RESOURCE
 11.set=DEX
 27.set=ANDROID_RESOURCE
-30.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_finish.xml
+30.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\hedge.bmp
 14.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\folders\\2\\1f\\main\\data\\MazeSkillThree.xml
 30.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 14.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\folders\\2\\1f\\main
@@ -63,11 +63,11 @@ count=32
 30.set=ANDROID_RESOURCE
 9.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\pk.bmp
 5.set=ANDROID_RESOURCE
-18.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_amaze.xml
+18.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_directions.png
 9.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 18.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 11.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0cce27c0b51540626fdd5696269f8ab673fd1008\\classes.dex
-29.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\hedge.bmp
+29.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_finish.xml
 11.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0cce27c0b51540626fdd5696269f8ab673fd1008
 29.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 24.set=JAVA_RESOURCE
@@ -78,7 +78,7 @@ count=32
 29.set=ANDROID_RESOURCE
 23.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 18.set=ANDROID_RESOURCE
-19.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_directions.png
+19.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_amaze.xml
 19.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 12.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\folders\\2\\1f\\main\\data\\MazeSkillOne.xml
 12.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\folders\\2\\1f\\main

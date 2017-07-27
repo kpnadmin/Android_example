@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jul 25 10:27:47 KST 2017
+#Fri Jul 28 01:30:43 KST 2017
 20.set=ANDROID_RESOURCE
 19.set=ANDROID_RESOURCE
 8.set=ANDROID_RESOURCE
@@ -26,10 +26,10 @@
 15.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
 15.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 18.set=ANDROID_RESOURCE
-17.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\hedge.bmp
+17.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_finish.xml
 17.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 7.set=ANDROID_RESOURCE
-19.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\finish.xml
+19.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 19.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 14.set=ANDROID_RESOURCE
 3.set=ANDROID_RESOURCE
@@ -51,7 +51,7 @@
 8.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 8.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\bushes.bmp
 2.set=ANDROID_RESOURCE
-20.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+20.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\finish.xml
 20.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 12.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\title.bmp
 12.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -60,11 +60,11 @@
 14.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_view_as_grid.png
 14.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 21.set=ANDROID_RESOURCE
-16.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_finish.xml
+16.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_generating.xml
 16.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 9.set=ANDROID_RESOURCE
 count=23
-18.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_generating.xml
+18.file=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\hedge.bmp
 18.base=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\res\\resources-debug.ap_
 16.set=ANDROID_RESOURCE
 5.set=ANDROID_RESOURCE
