@@ -1,4 +1,0 @@
-#Fri Jul 28 01:31:04 KST 2017
-base.0=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_561d1cebaf7076a89054f8949095c16663de2e84
-renamed.0=classes.dex
-file.0=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_561d1cebaf7076a89054f8949095c16663de2e84\\classes.dex

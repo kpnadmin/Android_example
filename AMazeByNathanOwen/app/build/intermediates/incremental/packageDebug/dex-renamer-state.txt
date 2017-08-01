@@ -1,7 +1,0 @@
-#Fri Jul 28 01:31:06 KST 2017
-base.0=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0cce27c0b51540626fdd5696269f8ab673fd1008
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a312e688016f50bfedf436194d11f6890c5f81b7\\classes.dex
-base.1=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a312e688016f50bfedf436194d11f6890c5f81b7
-file.0=D\:\\Android_Example\\AMazeByNathanOwen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0cce27c0b51540626fdd5696269f8ab673fd1008\\classes.dex
