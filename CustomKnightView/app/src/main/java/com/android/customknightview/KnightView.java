@@ -21,9 +21,16 @@ import android.view.View;
 public class KnightView extends View {
     private String text = null;
     private int backgroundColor = Color.RED;
+    private Bitmap bitmap;
 
     private String tempText;
+    private AnimationType currentAnimationState;
 
+    public enum AnimationType {
+        BREATH,
+        MOVE,
+        JUMP,
+    }
 
     public KnightView(Context context) {
         super(context);
@@ -82,7 +89,7 @@ public class KnightView extends View {
                 heightSize = heightMeasureSpec;
                 break;
             case MeasureSpec.AT_MOST:        // wrap_content (뷰 내부의 크기에 따라 크기가 달라짐)
-                heightSize = 60;
+                heightSize = 160;
                 break;
             case MeasureSpec.EXACTLY:        // fill_parent, match_parent (외부에서 이미 크기가 지정되었음)
                 heightSize = MeasureSpec.getSize(heightMeasureSpec);
@@ -97,7 +104,7 @@ public class KnightView extends View {
                 widthSize = widthMeasureSpec;
                 break;
             case MeasureSpec.AT_MOST:        // wrap_content (뷰 내부의 크기에 따라 크기가 달라짐)
-                widthSize = 60;
+                widthSize = 160;
                 break;
             case MeasureSpec.EXACTLY:        // fill_parent, match_parent (외부에서 이미 크기가 지정되었음)
                 widthSize = MeasureSpec.getSize(widthMeasureSpec);
@@ -141,7 +148,7 @@ public class KnightView extends View {
         final Paint p = new Paint();
         p.setColor(backgroundColor);
         //canvas.drawRect(0,0,getMeasuredWidth(),getMeasuredHeight(), p);
-        Bitmap bitmap = BitmapFactory.decodeResource(getResources(),   R.drawable.knight);
+        bitmap = BitmapFactory.decodeResource(getResources(),   R.drawable.knight);
         Rect rtDest = new Rect(0,0,getMeasuredWidth(),getMeasuredHeight());
         canvas.drawBitmap(bitmap, null,rtDest, null);
         if (text != null) {
